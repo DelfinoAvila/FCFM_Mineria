@@ -7,4 +7,4 @@
 
 [Ejercicio Bases de Datos - Equipo 6](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Equipo_6-Ejercicio%20base%20de%20datos%20.pdf)
 
-[Ejercicios de Python (basicos)]()
+[Ejercicios de Python (basicos)](https://github.com/DelfinoAvila/FCFM_Mineria/blob/main/Ej_Python_1861240.ipynb)
