@@ -12,3 +12,9 @@
 [Práctica de limpieza de datos](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Ej_Limpieza_Equipo6.ipynb)
 
 [Avance 1 PIA](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Avance1_PIA_Equipo6.ipynb)
+
+## Fase II
+[Presentación visualización de datos](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Presentaci%C3%B3n_Visualizaci%C3%B3n_6.pdf)
+
+[Cuestionario visualización de datos](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Cuestionario_Visualizacion_6.pdf)
+
