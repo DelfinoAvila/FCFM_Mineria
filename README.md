@@ -29,3 +29,5 @@
 [Ejercicio técnicas de mineria Corregido](https://github.com/DelfinoAvila/FCFM_Mineria/blob/main/Tecnicas_Equipo6.ipynb)
 
 [Notebook final](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Notebook_final_Equipo6.ipynb)
+
+[PIA Póster](https://github.com/Britany01/MineriaDeDatos/blob/main/P%C3%B3ster_Equipo6.pdf)
